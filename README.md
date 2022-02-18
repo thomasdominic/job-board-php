@@ -12,14 +12,17 @@ Full remote = 🏠
 
 ## Les offres
 
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/AFFLELOU.md">[AFFLELOU]</a> 
-	- Développeur intermédiaire PHP/Symfony 
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/ANKORSTORE.md">[ANKORSTORE]</a> 
-	- Senior back-end developer Laravel / contexte International 🏠 - Digital NOMAD 
-	- Senior front-end developer VueJS / contexte International, 🏠 - Digital NOMAD 
-- <a href="https://github.com/jlondiche/job-board-php/blob/master/AVOSTART.md">[AVOSTART]</a> 
-	- Lead Dev JS Front-end , techno à choisir, tout à développer de zéro 🏠
-	- Développeur back-end confirmé **Archi Hexagonale** 🏠
+| Société  | Niveau / Séniorité          | Back-end | Full-stack |Front-end |Framework|Remote|Type de contrat|
+| :--------------- |:---------------| :-----:|:-----:|:-----:|:-----:|:-----:|:-----|
+| [AFFLELOU](https://github.com/jlondiche/job-board-php/blob/master/AFFLELOU.md)|intermédiaire|PHP| | |Symfony| |CDI|
+| [ANKORSTORE](ANKORSTORE.md)|sénior|PHP|||Laravel|🏠 - Digital NOMAD|CDI|
+| [ANKORSTORE](ANKORSTORE.md)|sénior||JS||VueJS|🏠 - Digital NOMAD|CDI|
+| [AVOSTART](AVOSTART.md)|LeadDev||JS||A définir|🏠|CDI|
+| [AVOSTART](AVOSTART.md)|Sénior|x|||A définir|🏠|CDI|
+| [BEDROCK](BEDROCK.md)|Sénior||x||ReactJs|🏠|CDI|
+
+
+
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/BEDROCK.md">[BEDROCK]</a> 
 	- Développeur sénior front-end React.JS
 - <a href="https://github.com/jlondiche/job-board-php/blob/master/CAMPINGS.md">[CAMPINGS]</a> 
